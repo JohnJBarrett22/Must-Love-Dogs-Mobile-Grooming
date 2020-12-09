@@ -653,6 +653,24 @@
   text-align: center;
 }
 
+._2_block_img_2 {
+  width: 50%;
+  height: 425px;
+  background-image: url('../images/liz_grooming.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+._2_block_img_3 {
+  width: 50%;
+  height: 425px;
+  background-image: url('../images/liz_grooming.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 @media screen and (max-width: 767px) {
   .sticky-nav {
     position: relative;
